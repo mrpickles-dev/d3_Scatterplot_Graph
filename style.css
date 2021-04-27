@@ -1,0 +1,10 @@
+body{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+svg {
+    background-color: blanchedalmond;
+}
